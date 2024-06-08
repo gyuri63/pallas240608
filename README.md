@@ -5,3 +5,4 @@
 # konfliktus 3
 # teljesen mást írok
 # parancs1
+# tesztelés
