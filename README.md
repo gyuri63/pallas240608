@@ -6,3 +6,4 @@
 # teljesen mást írok
 # parancs1
 # tesztelés
+# teszt
