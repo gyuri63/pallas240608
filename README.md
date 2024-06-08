@@ -2,4 +2,4 @@
 # böngészőböl módosítottam
 # local readme módosítás
 # konfliktus 2
-# konflikt 4
+# konfliktus 3
