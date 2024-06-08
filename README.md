@@ -3,3 +3,4 @@
 # local readme módosítás
 # konfliktus 2
 # konfliktus 3
+# valami
