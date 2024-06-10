@@ -3,4 +3,4 @@
 # local readme módosítás
 # konfliktus 2
 # még egy konfliktus
-# valami
+# teljesen mást írok
