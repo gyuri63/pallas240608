@@ -1,1 +1,2 @@
-pallas240608
+# pallas240608
+# böngészőből módosítottam
